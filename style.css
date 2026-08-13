@@ -1,1 +1,15 @@
+header{
+background-color: pink;
+  color:#FF1493; 
+  text-aling: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 16px;
+  
+}
 
+  main{
+
+    background-color:#FFC0CB;
+    color:#FF1493
+  }
